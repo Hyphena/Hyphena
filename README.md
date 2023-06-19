@@ -1,4 +1,6 @@
 ### Hi there, I'm Luna 👋
+#### I'm currently working on this little blurb, try and check back later
+<img src="https://media.tenor.com/9eG32eISMGIAAAAC/gronouye-mother3.gif" alt="Moving on" width="128"/>
 <!-----
 
 #### There's not much to share, so have some silly links instead :
