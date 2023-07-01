@@ -1,11 +1,9 @@
 ### Hi there, I'm Luna 👋
-#### I'm currently working on this little blurb, try and check back later
-<img src="https://media.tenor.com/9eG32eISMGIAAAAC/gronouye-mother3.gif" alt="Moving on" width="128"/>
-<!-----
+- 🔭 I'm a full-time college student in my second year with an interest in gymnastics, video games, and programming
+- 🌱 I'm currently working through [Free Code Camp](https://www.freecodecamp.org/learn) and trying to improve my knowledge of the fundamentals, don't expect too much activity for a good bit
+- 🎧 Here are two of the songs I've been obsessed with lately: [Welcome to VA-11 Hall-A](https://youtu.be/Z35ScKCH5y8) && [Moscow Mule](https://youtu.be/p38WgakuYDo)
 
-#### There's not much to share, so have some silly links instead :
-
-
+Thank you for dropping by~ 
 
 <!--
 **Hyphena/Hyphena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
