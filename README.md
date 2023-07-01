@@ -1,7 +1,7 @@
 ### Hi there, I'm Luna 👋
 - 🔭 I'm a full-time college student in my second year with an interest in gymnastics, video games, and programming
 - 🌱 I'm currently working through [Free Code Camp](https://www.freecodecamp.org/learn) and trying to improve my knowledge of the fundamentals, don't expect too much activity for a good bit
-- 🎧 Here are two of the songs I've been obsessed with lately: [Welcome to VA-11 Hall-A](https://youtu.be/Z35ScKCH5y8) && [Moscow Mule](https://youtu.be/p38WgakuYDo)
+- 🎧 I'm currently obssessed with [Welcome to VA-11 Hall-A](https://youtu.be/Z35ScKCH5y8) && [Moscow Mule](https://youtu.be/p38WgakuYDo)
 
 Thank you for dropping by~ 
 
