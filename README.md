@@ -1,9 +1,9 @@
-### Hi there, I'm Luna 👋
-- 🔭 I'm a full-time college student in my second year with an interest in gymnastics, video games, and programming
-- 🌱 I'm currently working through [Free Code Camp](https://www.freecodecamp.org) and trying to improve my knowledge of the fundamentals, don't expect too much activity for a good bit
-- 🎧 I'm currently obssessed with [Welcome to VA-11 Hall-A](https://youtu.be/Z35ScKCH5y8) && [Moscow Mule](https://youtu.be/p38WgakuYDo)
+### Hello there, I'm Luna 👋
+- 🔭 I'm a full-time college student in my second year with an active interest in gymnastics, digital illustration, and video games
+- 🌱 I'm currently working through [Free Code Camp](https://www.freecodecamp.org) and trying to improve my understandings of the front-end fundamentals, don't expect too much activity for a good bit
+- 🎧 I'm currently obssessed with [Disco Elysium's soundtrack](https://youtu.be/Kkjmos0tjbc) && [kessoku band](https://youtu.be/gX9m-rCtSqc)
 
-Thank you for dropping by~ 
+Thank you for stopping by ❤️
 
 <!--
 **Hyphena/Hyphena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
