@@ -1,9 +1,9 @@
 ### Hello there, I'm Luna 👋
 - 🔭 I'm a full-time college student in my second year with an active interest in gymnastics, digital illustration, and video games
-- 🌱 I'm currently working through [Free Code Camp](https://www.freecodecamp.org) and trying to improve my understandings of the front-end fundamentals, don't expect too much activity for a good bit
-- 🎧 I'm currently obssessed with [Disco Elysium's soundtrack](https://youtu.be/Kkjmos0tjbc) && [kessoku band](https://youtu.be/gX9m-rCtSqc)
+- 🌱 I'm currently working through [Free Code Camp](https://www.freecodecamp.org) and trying to learn the front-end fundamentals (just hosted my first react app!)
+- 🎧 I'm currently obssessed with [tainy](https://www.youtube.com/watch?v=LK7eHoocQlE) && [joji](https://www.youtube.com/watch?v=5EA9Fd6fqyI)
 
-Thank you for stopping by ❤️
+Thanks for dropping by ❤️
 
 <!--
 **Hyphena/Hyphena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
