@@ -1,9 +1,11 @@
-### Hello there, I'm Luna 👋
-- 🔭 I'm a full-time college student in my second year with an active interest in gymnastics, digital illustration, and video games
-- 🌱 I'm currently working through [Free Code Camp](https://www.freecodecamp.org) and trying to learn the front-end fundamentals (just hosted my first react app!)
-- 🎧 I'm currently obssessed with [tainy](https://www.youtube.com/watch?v=LK7eHoocQlE) && [joji](https://www.youtube.com/watch?v=5EA9Fd6fqyI)
+### heyy i'm luna
+- ⛰️ i enjoy mountain biking, gymnastics, illustration, and video games
+- 🎓 i'm currently in my second year of college for my associates in science
+- 🌱 i'm steadily working through the [rust book](https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8&si=PJkahmRPFla8veoK) and [shvili's design course](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/?couponCode=ST12MT030524)
+- 🎧 i'm obsessed with [lotus juice](https://youtu.be/RwfV9N2RlgI) and the [spice and wolf](https://youtu.be/YzysmqYF18Q?list=PL5PW5TdgaMAQZIwJfZFbgwPDeyZzkuLEG) soundtrack (truly one of a kind)
+- 📖 and i'm slowly working through the first dune book (its just so dense, but so cool)
 
-Thanks for dropping by ❤️
+thanks for dropping by ❤️
 
 <!--
 **Hyphena/Hyphena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
