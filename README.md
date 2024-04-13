@@ -1,9 +1,9 @@
 ### heyy i'm luna
 - ⛰️ i enjoy mountain biking, gymnastics, illustration, and video games
-- 🎓 i'm currently in my second year of college for my associates in science
-- 🌱 i'm steadily working through the [rust book](https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8&si=PJkahmRPFla8veoK) and [shvili's design course](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/?couponCode=ST12MT030524)
-- 🎧 i'm obsessed with [lotus juice](https://youtu.be/RwfV9N2RlgI) and the [spice and wolf](https://youtu.be/YzysmqYF18Q?list=PL5PW5TdgaMAQZIwJfZFbgwPDeyZzkuLEG) soundtrack (truly one of a kind)
-- 📖 and i'm slowly working through the first dune book (its just so dense, but so cool)
+- 🎓 i'm in my second year of community college studying for my associates in science
+- 🌱 i'm slowly working through the [rust book](https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8&si=PJkahmRPFla8veoK) and struggling to piece together how [rojo](https://rojo.space/) and roblox as a whole works
+- 🎧 i'm currently obsessed with [100 gecs](https://youtu.be/M6MV1nxxGf8) (their [noise resonates](https://youtu.be/vaBFLNWnQ0E) with me somehow, i can't explain it)
+- 📖 and i'm reading through our share of night and the first dune book
 
 thanks for dropping by ❤️
 
