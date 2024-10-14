@@ -1,9 +1,10 @@
 ### heyy i'm luna
-- ⛰️ i enjoy mountain biking, gymnastics, illustration, and video games
-- 🎓 i'm in my second year of community college studying for my associates in science
-- 🌱 i'm slowly working through the [rust book](https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8&si=PJkahmRPFla8veoK) and struggling to piece together how [rojo](https://rojo.space/) and roblox as a whole works
-- 🎧 i'm currently obsessed with [100 gecs](https://youtu.be/M6MV1nxxGf8) (their [noise resonates](https://youtu.be/vaBFLNWnQ0E) with me somehow, i can't explain it)
-- 📖 and i'm reading through our share of night and the first dune book
+- ⛰️ i enjoy digital illustration, mountain biking, guitar, video games and manga
+- 🎓 i'm in my second year of community college studying for my associates with dreams of transferring to a four year
+- 🌱 i'm dipping my toes back into [ui design](https://b.catgirlsare.sexy/AlaBRcrmp1RU.mp4) which has had me confronting coroutines and pattern matching (pls help)
+- 🎧 i'm currently obsessed with [sugar](https://youtu.be/xfjpowsM0_k) (i got to see it live!) and [twinkling ash](https://youtu.be/8Uba6oz7AC8) (this song has had a death grip on me since i first heard it months ago)
+- 📖 i'm reading through the eighth volume of spice and wolf alongside the first book in a song of ice and fire (both v fun reads)
+- 🎨 and here's a small bonus, here are my latest [sketches](https://b.catgirlsare.sexy/s-Gp_0ltOrjE.png)
 
 thanks for dropping by ❤️
 
